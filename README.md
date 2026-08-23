@@ -6,7 +6,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/cost-Free_Forever-green" alt="Free">
-  <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
+  <img src="https://img.shields.io/badge/status-Prototype-yellow" alt="Prototype">
   <img src="https://img.shields.io/badge/NTDs-20_diseases-f59e0b" alt="20 NTDs">
   <img src="https://img.shields.io/badge/target-1.7B_people-ef4444" alt="1.7B People">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
@@ -14,6 +14,17 @@
 </p>
 
 ---
+
+---
+
+## Status / Honesty
+
+This repository is a **prototype library** under the Mama Foundation (Scheme C). It is **not** production clinical software, **not** HIPAA certified, and **not** cleared for care delivery.
+
+- Maturity: **Prototype**
+- Portal path: [https://mama.oliwoods.ai/foundation/drug-discovery](https://mama.oliwoods.ai/foundation/drug-discovery)
+- See [MAMA-MSTR#959](https://github.com/OliWoods-Org/MAMA-MSTR/issues/959)
+
 
 > **Neglected Tropical Diseases affect 1.7 billion of the world's poorest people — and received less than 1% of global health R&D investment in 2022.** The market has failed here completely: developing a drug costs $2.6 billion and takes 12 years. For diseases that primarily affect people without purchasing power, that math will never work. **This library brings AI to the front of the pipeline: protein structure prediction, compound screening, literature mining, and clinical trial design — all open-source, all free, specifically targeting the 20 WHO-defined NTDs that commercial pharma ignores.** Every shortcut we find in the pipeline is years faster to treatment for a child with schistosomiasis in sub-Saharan Africa.
 
